@@ -1,0 +1,34 @@
+.sobre-mim {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: 'Roboto Mono', monospace;
+    width: 80%;
+    margin: 0 auto 0;
+}
+
+  .sobre-mim-texto {
+    font-size: 0.9rem;
+    max-width: 70ch;
+    line-height: 1.33;
+    color: #525252;
+    text-align: justify;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2rem;
+    margin-top: 800px;
+}
+
+.sobre-mim-texto2 {
+    font-size: 0.9rem;
+    max-width: 70ch;
+    line-height: 1.33;
+    color: #525252;
+    text-align: justify;
+}

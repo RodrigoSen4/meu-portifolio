@@ -13,8 +13,8 @@ export default class Home extends Component {
         <Cabecalho />
         <Inicio />
         <SobreMim />
-        <Projetos />
         <Habilidades />
+        <Projetos />
         <Rodape />
       </>
     );

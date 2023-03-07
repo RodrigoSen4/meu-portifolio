@@ -5,43 +5,6 @@ export default class Projetos extends Component {
     return (
       <div className="projeto">
         <h1>Projeto</h1>
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
-        <h1>Projeto</h1>
-
       </div>
     );
   }
