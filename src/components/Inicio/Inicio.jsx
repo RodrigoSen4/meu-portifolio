@@ -12,7 +12,6 @@ export default class Inicio extends Component {
         </h1>
         <h1>
           <span style={ { color: 'black', fontWeight: 'bold' } }>
-            {/* Style will be inherited from the parent element */}
             <Typewriter
               words={
                 // eslint-disable-next-line max-len
