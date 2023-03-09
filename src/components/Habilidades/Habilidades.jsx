@@ -14,7 +14,7 @@ export default class Habilidades extends Component {
   render() {
     return (
       <div className="habilidades">
-        <h1>Habilidades</h1>
+        <p className="titulo">Habilidades</p>
         <div className="skills">
 
           <div className="div-img">

@@ -5,13 +5,13 @@ import './style.css';
 export default class SobreMim extends Component {
   render() {
     return (
-      <div>
+      <div className="sobre">
         <p className="titulo">Sobre Mim</p>
 
         <div className="sobre-mim">
 
           <p className="sobre-mim-texto2">
-            Me chamo Rodrigo Sena, tenho 23 anos, este portifolio é dedicado a demosntração do meu trabalho durante meu curso de desenvolvimento WEB full stack na trybe...
+            Me chamo Rodrigo Sena, tenho 23 anos, este portifolio é dedicado a demonstração do meu trabalho durante meu curso de desenvolvimento WEB full stack na trybe...
           </p>
           <p className="sobre-mim-texto">
             Sou desenvolvedor Full Stack, apaixonado por programação desde o primeiro Hello, World!,

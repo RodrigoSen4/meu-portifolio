@@ -11,7 +11,7 @@ export default class Cabecalho extends Component {
         {/* <img src={ logoCabecalho } className="CompanyLogo" alt="logo-Rodrigo-Sena" /> */}
         <div className="header-right">
           <Link to="inicio" smooth duration={ 500 }>Início</Link>
-          <Link to="sobre-mim" smooth duration={ 500 }>Sobre Mim</Link>
+          <Link to="sobre" smooth duration={ 500 }>Sobre Mim</Link>
           <Link to="habilidades" smooth duration={ 500 }>Habilidades</Link>
           <Link to="projeto" smooth duration={ 500 }>Projetos</Link>
         </div>

@@ -7,16 +7,38 @@
     margin: 0 auto 0;
 }
 
+
 .icons {
     height: 100px;
     width: 100px;
     margin: 2rem 1rem;
 }
 
+
 .div-img {
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
-    margin: 2rem 1rem;
+    margin: 1rem 1rem;
+}
+
+
+.div-img {
+    transition: 0.5s;
+} 
+
+
+.div-img:hover {
+    transform: scale(1.5);
+}
+
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2rem;
+    margin-top: 800px;
 }
