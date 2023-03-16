@@ -1,0 +1,10 @@
+.div-tex {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 0;
+    font-size: 0.9rem;
+    max-width: 70ch;
+    line-height: 1.33;
+    color: white;
+    text-align: justify;
+}

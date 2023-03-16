@@ -1,19 +1,18 @@
+/* eslint-disable max-len */
 import React, { Component } from 'react';
 import { Link } from 'react-scroll';
-/* import logoCabecalho from '../../img/logo.png'; */
+import logoRS from '../../img/LogoRS.png';
 import './style.css';
 
 export default class Cabecalho extends Component {
   render() {
     return (
       <div className="header">
-        Logo Aqui
-        {/* <img src={ logoCabecalho } className="CompanyLogo" alt="logo-Rodrigo-Sena" /> */}
+        <img src={ logoRS } className="CompanyLogo" alt="logo-Rodrigo-Sena" />
         <div className="header-right">
-          <Link to="inicio" smooth duration={ 500 }>Início</Link>
-          <Link to="sobre" smooth duration={ 500 }>Sobre Mim</Link>
-          <Link to="habilidades" smooth duration={ 500 }>Habilidades</Link>
-          <Link to="projeto" smooth duration={ 500 }>Projetos</Link>
+          <Link offset={ -200 } to="inicio" smooth duration={ 500 }>Início</Link>
+          <Link offset={ -200 } to="habilidades" smooth duration={ 500 }>Habilidades</Link>
+          <Link offset={ -200 } to="projeto" smooth duration={ 500 }>Projetos</Link>
         </div>
       </div>
     );

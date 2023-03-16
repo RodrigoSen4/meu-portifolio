@@ -6,7 +6,7 @@ export default class SobreMim extends Component {
   render() {
     return (
       <div className="sobre">
-        <p className="titulo">Sobre Mim</p>
+        <h1 className="titulo">Sobre Mim</h1>
 
         <div className="sobre-mim">
 
