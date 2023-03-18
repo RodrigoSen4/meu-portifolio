@@ -16,6 +16,40 @@
     text-align: justify;
 }
 
+a { 
+    text-decoration: none
+
+}
+
+.botton {
+    margin: 0 auto 0;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    padding: 15px 25px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.botton:hover {background-color: #73b375}
+
+.botton:active {
+  background-color: #00aa09;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
 .titulo {
     display: flex;
     justify-content: center;

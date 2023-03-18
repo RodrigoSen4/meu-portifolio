@@ -18,8 +18,10 @@ export default class SobreMim extends Component {
             estou me especializando em desenvolvimento Back-end, em busca de novos desafios e aprendizado.
             Alguns dos meus projetos estão abaixo. Sinta-se à vontade para entrar em contato comigo, minhas redes estão disponíveis aqui!
           </p>
-
         </div>
+        <button className="botton" type="button">
+          <a href="" target="_blank" rel="noreferrer">Download do meu Currículo</a>
+        </button>
       </div>
 
     );
