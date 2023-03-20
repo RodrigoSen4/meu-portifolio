@@ -20,7 +20,7 @@ export default class SobreMim extends Component {
           </p>
         </div>
         <button className="botton" type="button">
-          <a href="" target="_blank" rel="noreferrer">Download do meu Currículo</a>
+          <a href="https://drive.google.com/file/d/1EJWTo-7Dxq1FliTRPgm5o9wE4ku5DXJf/view?usp=share_link" target="_blank" rel="noreferrer">Download do meu Currículo</a>
         </button>
       </div>
 
