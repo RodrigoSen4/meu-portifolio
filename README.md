@@ -2,5 +2,4 @@
 
 Desenvolvido utlizando React.Js e CSS
 
-Disponível [_aqui_: https://blog.betrybe.com]
-
+Disponível [_aqui_](https://rodrigosen4.vercel.app/).
