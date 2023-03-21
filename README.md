@@ -1,4 +1,4 @@
-# Repositório dedicado ao meu portfólio web
+# Meu portfólio web
 
 Desenvolvido utlizando React.Js e CSS
 
