@@ -19,7 +19,7 @@ export default class SobreMim extends Component {
             Alguns dos meus projetos estão abaixo. Sinta-se à vontade para entrar em contato comigo, minhas redes estão disponíveis aqui!
           </p>
         </div>
-        <a href="https://drive.google.com/file/d/14GpMlwzWXz108-Tk3QJ5doSZmZY8rjKi/view?usp=share_link" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/12wkAxLjiqgWu8W9Oc_hlpNUSSRlB1fDt/view?usp=share_link" target="_blank" rel="noreferrer">
           <button className="botton" type="button">Download do meu Currículo</button>
         </a>
       </div>
